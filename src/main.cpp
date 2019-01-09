@@ -5,7 +5,7 @@
 
 
 #define DMX_SLAVE_CHANNELS   4
-#define DMX_START_ADRESS     1
+#define DMX_START_ADRESS     400
 #define DMX                  true
 
 const int brakeMotorA = 9;
